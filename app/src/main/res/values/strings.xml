@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PicDemo</string>
+    <string name="tips">提示</string>
+    <string name="confrim">确定</string>
+    <string name="cancle">取消</string>
+    <string name="tv_photo_open_from_camera">打开照相机</string>
+    <string name="tv_photo_open_from_photo">从相册获取</string>
+    <string name="tv_photo_select_photo">请选择图片</string>
+    <string name="dialog_sure">确定</string>
+    <string name="dialog_cancel">取消</string>
+</resources>
